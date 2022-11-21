@@ -1,0 +1,12 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+/*END BODY*/
+
+/*H*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
