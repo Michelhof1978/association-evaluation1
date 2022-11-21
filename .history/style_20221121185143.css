@@ -19,13 +19,11 @@
 /*END HEADER*/
 
 /*BODY*/
-
-/*BANNER*/
+/*BODY*/
 .container {
     display: inline-block;
     position: relative;
     width: 100%;
-    padding: 0;
 }
 .container .text {
     z-index: 1;
@@ -33,6 +31,8 @@
     text-align: left;
     font-family: Georgia;
     padding-left: 80px ;
+    left: 0;
+    right: 0;
     top: 40%;
     color: white;
     width: 70%;
@@ -41,8 +41,6 @@
 .container h1{
     color: rgba(255, 68, 0, 0.686);
     }
-/*END BANNER*/
-
 /*END BODY*/
 
 

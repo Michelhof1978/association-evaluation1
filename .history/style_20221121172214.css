@@ -1,0 +1,36 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+
+#banner{
+    position: absolute;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    width: 100;
+    
+}
+
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+/*END HEADER*/
+
+/*BODY*/
+.banniere{
+    
+}
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

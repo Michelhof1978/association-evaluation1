@@ -22,9 +22,9 @@
 
 /*BANNER*/
 .container {
-    display: inline-block;
-    position: relative;
-    width: 100%;
+    
+ 
+    width: auto;
     padding: 0;
 }
 .container .text {

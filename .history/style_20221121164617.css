@@ -1,0 +1,26 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+/*END HEADER*/
+
+/*BODY*/
+.banniere{
+    background-image: images/banniere.png;
+}
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

@@ -1,0 +1,31 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+
+    body {
+        background-image: url('images');
+        background-repeat: no-repeat;
+      }
+}
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+/*END HEADER*/
+
+/*BODY*/
+.banniere{
+    
+}
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

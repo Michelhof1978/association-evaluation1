@@ -1,0 +1,33 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+
+
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+
+.petsSelection{
+    border-radius: 5px;
+}
+/*END HEADER*/
+
+/*BODY*/
+.bannerText1{
+    color: orangered;
+    
+}
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

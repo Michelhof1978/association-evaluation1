@@ -24,8 +24,7 @@
 .container {
     display: inline-block;
     position: relative;
-    width: 100%;
-    padding: 0;
+    width: 100%auto;
 }
 .container .text {
     z-index: 1;
@@ -33,6 +32,8 @@
     text-align: left;
     font-family: Georgia;
     padding-left: 80px ;
+    left: 0;
+    right: 0;
     top: 40%;
     color: white;
     width: 70%;
