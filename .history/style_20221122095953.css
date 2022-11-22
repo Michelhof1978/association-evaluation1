@@ -1,0 +1,51 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+
+
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+
+.petsSelection{
+    border-radius: 5px;
+}
+/*END HEADER*/
+
+/*BODY*/
+
+/*BANNER*/
+.container{
+    position: relative;
+    max-width: 100vh;
+    overflow-x: hidden;
+    flex: 1 1;
+}
+
+.banner{
+    position : absolute;
+    width: 50%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+/*END BANNER*/
+
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

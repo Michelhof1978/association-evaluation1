@@ -1,0 +1,54 @@
+
+/*BODY*/
+.link:hover{
+    color: orangered;
+}
+
+
+/*END BODY*/
+
+/*HEADER*/
+.searchButton{
+    background-color: orangered;
+    color: white;
+}
+
+.petsSelection{
+    border-radius: 5px;
+}
+/*END HEADER*/
+
+/*BODY*/
+
+/*BANNER*/
+.container {
+    display: block;
+    position: st;
+    width: 100%;
+    padding: 0;
+   
+}
+.container .text {
+    z-index: 1;
+    position: absolute;
+    text-align: left;
+    font-family: Georgia;
+    padding-left: 70px ;
+    top: 40%;
+    color: white;
+    width: 70%;
+}
+
+.container h1{
+    color: rgba(255, 68, 0, 0.686);
+    }
+/*END BANNER*/
+
+/*END BODY*/
+
+
+
+/*FOOTER*/
+
+
+/*END FOOTER*/

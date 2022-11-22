@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
 
 /*BODY*/
 .link:hover{
@@ -8,7 +7,6 @@ body
 {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto Slab', serif;
 }
 
 /*END BODY*/
@@ -28,6 +26,7 @@ body
 
 /*BANNER*/
 
+background-image: url("https://www.la-spa.fr/app/assets-spa/uploads/2022/11/SPA-FA22-fond-DESKTOP.png");
 /*END BANNER*/
 
 /*END BODY*/

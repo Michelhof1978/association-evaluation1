@@ -1,15 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
 
 /*BODY*/
 .link:hover{
     color: orangered;
 }
-body
-{
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto Slab', serif;
-}
+
 
 /*END BODY*/
 
@@ -27,7 +21,24 @@ body
 /*BODY*/
 
 /*BANNER*/
+.container {
+    width: 100%;
+   
+}
+.container .text {
+    z-index: 1;
+    position: absolute;
+    text-align: left;
+    font-family: Georgia;
+    padding-left: 70px ;
+    top: 40%;
+    color: white;
+    width: 70%;
+}
 
+.container h1{
+    color: rgba(255, 68, 0, 0.686);
+    }
 /*END BANNER*/
 
 /*END BODY*/

@@ -1,15 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
 
 /*BODY*/
 .link:hover{
     color: orangered;
 }
-body
-{
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto Slab', serif;
-}
+
 
 /*END BODY*/
 
@@ -27,6 +21,9 @@ body
 /*BODY*/
 
 /*BANNER*/
+.container{
+    
+}
 
 /*END BANNER*/
 
