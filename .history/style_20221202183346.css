@@ -116,14 +116,6 @@ body
     padding: 20px;
    
 }
-
-.btn-outline-secondary{
-    color: orangered;
-}
-
-.btn-outline-secondary:hover{
-    background-color: rgba(255, 68, 0, 0.633);
-}
 /*END CORIDA*/
 
 
