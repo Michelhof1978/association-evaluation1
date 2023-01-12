@@ -95,6 +95,29 @@ body
 /*END BANNER*/
 
 /*CORIDA*/
+.wrapper{
+    display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+    padding: 40px;
+}
+
+.coridaImg{
+    height: 2000px;
+    width: 2000px;
+    padding: 20px;
+}
+
+@media screen and (max-width: 700px) {
+    .coridaImg{
+       display: none;
+    }
+ }
+
+.coridaText {
+    padding: 20px;
+   
+}
 
 .btn-outline-secondary{
     color: orangered;
@@ -106,8 +129,8 @@ body
 /*END CORIDA*/
 
 /*CAROUSSEL*/
-.carrousel{
-    text-align: center;
+#carouselMaterialStyle{
+   
 }
 /*END CAROUSSEL*/
 
