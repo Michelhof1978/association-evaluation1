@@ -33,8 +33,12 @@ body
 /*END HEADER*/
 
 /*BANNER*/
+.banner {
+   
+    
+}
 
- .textBanner {
+.banner .textBanner {
     
     display: inline-block;
     position: absolute;
